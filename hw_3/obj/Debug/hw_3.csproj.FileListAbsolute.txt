@@ -1,0 +1,10 @@
+C:\Users\home\source\repos\hw_3\hw_3\bin\Debug\hw_3.exe.config
+C:\Users\home\source\repos\hw_3\hw_3\bin\Debug\hw_3.exe
+C:\Users\home\source\repos\hw_3\hw_3\bin\Debug\hw_3.pdb
+C:\Users\home\source\repos\hw_3\hw_3\obj\Debug\hw_3.csprojAssemblyReference.cache
+C:\Users\home\source\repos\hw_3\hw_3\obj\Debug\hw_3.Form1.resources
+C:\Users\home\source\repos\hw_3\hw_3\obj\Debug\hw_3.Properties.Resources.resources
+C:\Users\home\source\repos\hw_3\hw_3\obj\Debug\hw_3.csproj.GenerateResource.cache
+C:\Users\home\source\repos\hw_3\hw_3\obj\Debug\hw_3.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\hw_3\hw_3\obj\Debug\hw_3.exe
+C:\Users\home\source\repos\hw_3\hw_3\obj\Debug\hw_3.pdb
