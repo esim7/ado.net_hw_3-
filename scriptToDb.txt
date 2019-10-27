@@ -1,0 +1,6 @@
+create database MyDB;
+
+create table People(id uniqueidentifier not null, fullName nvarchar(MAX), age int, phoneNumber nvarchar(MAX));
+
+insert into People (id, fullName, age, phoneNumber) values('F80ADFA8-B473-40EF-8DA5-DC47DAB589E2', 'Петров Василий', 28, '+77782315455');
+insert into People (id, fullName, age, phoneNumber) values('48E2CD28-949E-48A2-9FB5-E0BB4BF7A469', 'Сидоров Александр', 41, '+77772564489');
